@@ -1,7 +1,7 @@
 function Footer() {
   return (
     <footer>
-      <h2>Copyright 2025</h2>
+      <p style={{ margin: 0 }}>&copy; 2025</p>
     </footer>
   );
 }
