@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import './Nav.css'; // Import the CSS file for styling
+import './Nav.css';
 
 function Nav() {
   return (
